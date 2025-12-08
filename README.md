@@ -1,2 +1,6 @@
-# Telco-Churn-ML-Project
-Machine Learning coursework for customer churn prediction
+# Telco Customer Churn Prediction
+
+## Project Overview
+Machine Learning coursework
+
+# Continue with your README content
